@@ -1,0 +1,6 @@
+{
+    "source_folder": "test_files",
+    "destination_folder": "organized_files",
+    "log_file": "automation.log",
+    "report_folder": "reports"
+}
